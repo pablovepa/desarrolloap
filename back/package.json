@@ -9,5 +9,8 @@
   "author": "Pablo Vega",
   "license": "ISC",
   "type": "module",
-  "description": ""
+  "description": "Proyecto Desarrollo Aplicativo",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
